@@ -1,0 +1,9 @@
+-go to folder
+git init
+git remote add origin https://github.com/markmigueldev/Parking-Lot-Project.git
+git branch -M main
+git add *
+git commit -m 'message'
+git push -u origin main
+
+
